@@ -22,7 +22,7 @@ export default function Home() {
         <meta name="twitter:image" content="/ahmadsayadi.jpg" />
         <link rel="canonical" href="https://bio.ahmadsayadi.com" />
       </Head>
-        <iframe src="https://bio.link/sayadi" width="100%" height="600px" frameBorder="0"></iframe>
+        <iframe src="https://bio.link/sayadi"></iframe>
         <script dangerouslySetInnerHTML={{ __html: disableRightClick }} />
 
     </div>
