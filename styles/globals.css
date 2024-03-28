@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+iframe {
+  width: 100vw; /* Lebar 100% dari viewport */
+  height: 100vh; /* Tinggi 100% dari viewport */
+  border: none; /* Menghilangkan border */
+}
