@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/icon.ico" />
         <meta name="keywords" content="Profil, Ahmad, sayadi, Ahmad Sayadi" />
         <meta property="og:title" content="Ahmad Sayadi" />
-        <meta property="og:description" content="ini adalah profil Ahmad Sayadi" />
+        <meta property="og:description" content="Ini adalah profil Ahmad Sayadi" />
         <meta property="og:image" content="/ahmadsayadi.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
